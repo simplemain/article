@@ -2,6 +2,8 @@
 
 #### 技术干货 
 
+* [怎么快速找到：附近的人](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392165&idx=1&sn=f00f76c64cd3bccff6710947f20c7504&scene=0#wechat_redirect)
+
 * [一个简单代码的不简单实现](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392147&idx=1&sn=91ba6172edb887217eca35532c8a4af3&scene=19#wechat_redirect)
 
 * [线程的私家小院儿：ThreadLocal](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392118&idx=1&sn=a2144a19bdeba48001f4f76f423e25d9&scene=19#wechat_redirect)
