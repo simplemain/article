@@ -23,9 +23,9 @@
 
 * [HTTPS到底是个啥玩意儿？](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=402053009&idx=1&sn=ea531fc21a07d33f8a0408e5206c60f3&scene=19#wechat_redirect)
 
-#### 跟老王写Server
+#### [跟老王写Server](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392191&idx=1&sn=45416a6c25897d08f7d4515df20c0e7b&scene=0#wechat_redirect)
 
-##### 第一部分：搭建环境和第一个web程序
+##### 第一部分：[搭建环境和第一个web程序](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392194&idx=1&sn=c815f7813437ff493feba8475e4c42ce&scene=0#wechat_redirect)
 * [task1:搭建环境](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392209&idx=1&sn=ed4e16d807e9eb2bfca8dbb85be0bb86&scene=0#wechat_redirect)
 
 #### 学习框架
