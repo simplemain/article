@@ -1,6 +1,9 @@
 ## 老王的技术文章
 
 #### 技术干货 
+
+* [哈希](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392220&idx=1&sn=76b8fa8ba0c7e0882fba76cd2758a243&scene=0#wechat_redirect)
+
 * [A*，那个传说中的算法](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392188&idx=1&sn=53626b5a68a615daf1eea5d08f1b7fab&scene=0#wechat_redirect)
 
 * [怎么快速找到：附近的人](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392165&idx=1&sn=f00f76c64cd3bccff6710947f20c7504&scene=0#wechat_redirect)
