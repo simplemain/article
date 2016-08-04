@@ -31,6 +31,9 @@
 ##### 第一部分：[搭建环境和第一个web程序](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392194&idx=1&sn=c815f7813437ff493feba8475e4c42ce&scene=0#wechat_redirect)
 * [task1:搭建环境](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392209&idx=1&sn=ed4e16d807e9eb2bfca8dbb85be0bb86&scene=0#wechat_redirect)
 
+* [task2:第一个web程序Hello World](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392227&idx=1&sn=2530c91a4e74609f67fdadd850f58d26&scene=0#wechat_redirect) 
+
+
 #### 学习框架
 
 * [互联网服务端技术——如何学（1）](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=502908365&idx=1&sn=240771bebae5dda84cd78ea6272c08bc&scene=18#wechat_redirect)
