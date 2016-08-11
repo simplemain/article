@@ -35,6 +35,7 @@
 
 * [task2:第一个web程序Hello World](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392227&idx=1&sn=2530c91a4e74609f67fdadd850f58d26&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task1-2_hello-world)
 
+* [task3:HTML入门-实现一个计算器](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392248&idx=1&sn=9943571b7f5d45f09efd5c9867584a4c&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task1-3_html)
 
 #### 学习框架
 
