@@ -38,6 +38,8 @@
 * [task2:第一个web程序Hello World](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392227&idx=1&sn=2530c91a4e74609f67fdadd850f58d26&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task1-2_hello-world)
 
 * [task3:HTML入门-实现一个计算器](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392248&idx=1&sn=9943571b7f5d45f09efd5c9867584a4c&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task1-3_html)
+ 
+* [task4:搭建数据库&程序同数据库连接](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392259&idx=1&sn=ac4e468976a5099ab11ee40ecc78e04e&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task1-4_db-connect)
 
 #### 学习框架
 
