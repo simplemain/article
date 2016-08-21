@@ -2,6 +2,8 @@
 
 #### 技术干货 
 
+* [牛逼哄哄的RPC](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392260&idx=1&sn=5a4978d02326cdd38e2ea1cd9586b4df&scene=0#wechat_redirect)
+
 * [服务的防盗门：验证码！](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392249&idx=1&sn=4477a835bc239a63bac90c8321b04efb&scene=0#wechat_redirect)
 
 * [一致哈希](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392231&idx=1&sn=4ff765a663ef714f295a26ed7b864bed&scene=0#wechat_redirect)
