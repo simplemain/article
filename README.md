@@ -2,6 +2,8 @@
 
 #### 技术干货 
 
+* [非死不可的RPC框架:thrift](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392275&idx=1&sn=0b432fae7760853f86ae4157eb7451e5&scene=0#wechat_redirect)
+
 * [牛逼哄哄的RPC](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392260&idx=1&sn=5a4978d02326cdd38e2ea1cd9586b4df&scene=0#wechat_redirect)
 
 * [服务的防盗门：验证码！](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392249&idx=1&sn=4477a835bc239a63bac90c8321b04efb&scene=0#wechat_redirect)
