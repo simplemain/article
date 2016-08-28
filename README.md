@@ -45,6 +45,8 @@
  
 * [task4:搭建数据库&程序同数据库连接](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392259&idx=1&sn=ac4e468976a5099ab11ee40ecc78e04e&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task1-4_db-connect)
 
+* [task5:总结作业-记事本](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392265&idx=1&sn=f1ad904b39feae8561a803bce2c31d5e&scene=0#wechat_redirect)
+
 #### 学习框架
 
 * [互联网服务端技术——如何学（1）](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=502908365&idx=1&sn=240771bebae5dda84cd78ea6272c08bc&scene=18#wechat_redirect)
