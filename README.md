@@ -2,6 +2,8 @@
 
 #### 技术干货 
 
+* [好友动态的实现原理](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392282&idx=1&sn=93fd63aea3ee3a3ccfc6cae43699fa65&scene=0#wechat_redirect)
+
 * [非死不可的RPC框架:thrift](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392275&idx=1&sn=0b432fae7760853f86ae4157eb7451e5&scene=0#wechat_redirect)
 
 * [牛逼哄哄的RPC](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392260&idx=1&sn=5a4978d02326cdd38e2ea1cd9586b4df&scene=0#wechat_redirect)
