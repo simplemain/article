@@ -2,6 +2,8 @@
 
 #### 技术干货 
 
+* [分布式系统的中枢Naming-Service](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392289&idx=1&sn=1166749aa22a73c3520fd71814549e98&chksm=86ccd6d2b1bb5fc4c2e7cd3c112e78cdbd945cdc2786797fe1abb09c774108dea232e94ed712&scene=0#wechat_redirect)
+
 * [好友动态的实现原理](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392282&idx=1&sn=93fd63aea3ee3a3ccfc6cae43699fa65&scene=0#wechat_redirect)
 
 * [非死不可的RPC框架:thrift](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392275&idx=1&sn=0b432fae7760853f86ae4157eb7451e5&scene=0#wechat_redirect)
