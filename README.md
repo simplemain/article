@@ -55,6 +55,11 @@
 
 * [task5:总结作业-记事本](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392265&idx=1&sn=f1ad904b39feae8561a803bce2c31d5e&scene=0#wechat_redirect)
 
+##### 第二部分：[引入web开发框架](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392292&idx=1&sn=267689a9cdd169ffc3893122fa543b6b&chksm=86ccd6d7b1bb5fc145194e9ff045ba06dd1f665e89899feefc36b6f19945d8fc7dd87bcfab6a&scene=0#wechat_redirect)
+* [task1:引入web框架，另一个Hello World](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392310&idx=1&sn=bc8f11aa8945fcf119e7a63c192f3da8&chksm=86ccd6c5b1bb5fd3ce993d112bd0de75c406928ce46d51e83cf23984ddb55bd24f95e90c4a1c&scene=0#wechat_redirect) -- [代码](https://github.com/simplemain/web-dev_task2-1_web-framework)
+
+* [task2:连接数据库](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392314&idx=1&sn=24f775c2165e568e52fa6040e678dcb8&chksm=86ccd6c9b1bb5fdf52686039dd81918a4bb7856ea382baa6baf194fab465ff0b998b4235ac9a&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task2-2_db-connect-pool)
+
 #### 学习框架
 
 * [互联网服务端技术——如何学（1）](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=502908365&idx=1&sn=240771bebae5dda84cd78ea6272c08bc&scene=18#wechat_redirect)
