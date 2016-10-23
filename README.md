@@ -2,6 +2,8 @@
 
 #### 技术干货 
 
+* [搜索时的动态提示](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392332&idx=1&sn=afde4f7887059800681b9a5d05d9fee2&chksm=86ccd73fb1bb5e290617155d27de64fa5b1dd333a186b47ab15e14761abd37622f7c100b67c5&scene=0#wechat_redirect)
+
 * [从词典查词到文本检索](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392322&idx=1&sn=c3dc289aa8c9298fd9b249b91fa5eee9&chksm=86ccd731b1bb5e272df2936ae6f2938bbfe399dab4a25357df22b07ff26b8b204d080ee85ea3&scene=0#wechat_redirect)
 
 * [自己动手写JSON解析&格式化工具](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392301&idx=1&sn=a2493f368df398bad60b31c799e5dd01&chksm=86ccd6deb1bb5fc83223336c9a419e01253eabebfa0c82e1baf13eee094827044250c8afefda&scene=0#wechat_redirect)
