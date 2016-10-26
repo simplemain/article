@@ -1,4 +1,4 @@
-## 老王的技术文章 -- * [SimpleMain.com](http://simplemain.com)
+## 老王的技术文章 -- [SimpleMain.com](http://simplemain.com)
 
 #### 技术干货 
 
