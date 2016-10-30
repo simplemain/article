@@ -64,6 +64,10 @@
 
 * [task2:连接数据库](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392314&idx=1&sn=24f775c2165e568e52fa6040e678dcb8&chksm=86ccd6c9b1bb5fdf52686039dd81918a4bb7856ea382baa6baf194fab465ff0b998b4235ac9a&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task2-2_db-connect-pool)
 
+* [task3:有框架的数据提交和展示](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392325&idx=1&sn=20ec2f98c08eafdcad460232df20c4b0&chksm=86ccd736b1bb5e20fc474d21b6a448725e8f95716a6f6cfdba81ff4c12fbc0891e67c67cfd6f&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task2-3_project-with-framework)
+
+* [task4:日志](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392335&idx=1&sn=76a7cdd6a9fc480f0549c3d773cff042&chksm=86ccd73cb1bb5e2ad15b52d93897965db4d2f8a49bf7d8be93571d81946aad03baef607bba04&scene=0#wechat_redirect)  -- [代码](https://github.com/simplemain/web-dev_task2-4_log)
+
 #### 学习框架
 
 * [互联网服务端技术——如何学（1）](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=502908365&idx=1&sn=240771bebae5dda84cd78ea6272c08bc&scene=18#wechat_redirect)
