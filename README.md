@@ -2,6 +2,8 @@
 
 #### 技术干货 
 
+* [Linux环境下的性能分析 之 CPU篇](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392350&idx=1&sn=99bc98b48dbb31fe7706a4bb9e93fd79&chksm=86ccd72db1bb5e3b23debb6444bd7a3164bd3e8fb4ac3dc6e9b8486688e59fe4abade237f8d1&scene=0#wechat_redirect)
+
 * [搜索时的动态提示](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392332&idx=1&sn=afde4f7887059800681b9a5d05d9fee2&chksm=86ccd73fb1bb5e290617155d27de64fa5b1dd333a186b47ab15e14761abd37622f7c100b67c5&scene=0#wechat_redirect)
 
 * [从词典查词到文本检索](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392322&idx=1&sn=c3dc289aa8c9298fd9b249b91fa5eee9&chksm=86ccd731b1bb5e272df2936ae6f2938bbfe399dab4a25357df22b07ff26b8b204d080ee85ea3&scene=0#wechat_redirect)
