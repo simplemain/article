@@ -2,6 +2,12 @@
 
 #### 技术干货 
 
+* [Linux环境下的性能分析 之 IO篇](http://mp.weixin.qq.com/s/fv44WzUSMOaarS57biE01w)
+
+* [双十一实战 之 秒杀](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392369&idx=1&sn=97aa108cb8e4856669b921a3c68c2a99&chksm=86ccd702b1bb5e14528af9e8d4035642bff16f506cc46b8d5e379364f51fd4978d1f26890408&scene=0#wechat_redirect)
+
+* [Linux环境下的性能分析 之 内存篇](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392363&idx=1&sn=d5810c2026743448b1588f7448ff5370&chksm=86ccd718b1bb5e0ed1f47b31d6ec4ed0c9daace83bb49a59e4cfa4a39dbeff89af745cdf1a4d&scene=0#wechat_redirect)
+
 * [Linux环境下的性能分析 之 CPU篇](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392350&idx=1&sn=99bc98b48dbb31fe7706a4bb9e93fd79&chksm=86ccd72db1bb5e3b23debb6444bd7a3164bd3e8fb4ac3dc6e9b8486688e59fe4abade237f8d1&scene=0#wechat_redirect)
 
 * [搜索时的动态提示](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392332&idx=1&sn=afde4f7887059800681b9a5d05d9fee2&chksm=86ccd73fb1bb5e290617155d27de64fa5b1dd333a186b47ab15e14761abd37622f7c100b67c5&scene=0#wechat_redirect)
