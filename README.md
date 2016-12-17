@@ -2,6 +2,12 @@
 
 #### 技术干货 
 
+* [那些拒绝服务的攻击们：?-DoS](http://mp.weixin.qq.com/s/BJmO0HOBAfCd3nJBw0jVNw)
+
+* [TCP三次握手和Syn-Flood攻击](http://mp.weixin.qq.com/s/RbEELhDfIuBtiJo9H0c-Dw)
+
+* [sizeof (Java.Object) = ?](http://mp.weixin.qq.com/s/xVxjfC05DFKI286EA36-9g)
+
 * [Linux环境下的性能分析 之 IO篇](http://mp.weixin.qq.com/s/fv44WzUSMOaarS57biE01w)
 
 * [双十一实战 之 秒杀](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392369&idx=1&sn=97aa108cb8e4856669b921a3c68c2a99&chksm=86ccd702b1bb5e14528af9e8d4035642bff16f506cc46b8d5e379364f51fd4978d1f26890408&scene=0#wechat_redirect)
