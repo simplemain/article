@@ -2,6 +2,8 @@
 
 #### 技术干货 
 
+* [背地里搞你的攻击：CSRF](http://mp.weixin.qq.com/s/_NGMz6Olqp_0axpPO7CHxg)
+
 * [那些拒绝服务的攻击们：?-DoS](http://mp.weixin.qq.com/s/BJmO0HOBAfCd3nJBw0jVNw)
 
 * [TCP三次握手和Syn-Flood攻击](http://mp.weixin.qq.com/s/RbEELhDfIuBtiJo9H0c-Dw)
